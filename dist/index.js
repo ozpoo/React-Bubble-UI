@@ -269,5 +269,6 @@ function BubbleElement(props) {
   })) : null));
 }
 
-module.exports = BubbleElement;
+exports.default = BubbleElement;
+exports.defaultOptions = defaultOptions;
 //# sourceMappingURL=index.js.map

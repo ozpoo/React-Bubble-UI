@@ -1,7 +1,7 @@
 import React, { useState, useLayoutEffect, useRef } from "react";
 import styles from "./styles.module.css";
 
-const defaultOptions = {
+export const defaultOptions = {
   size: 200,
   minSize: 20,
   gutter: 16,

@@ -267,4 +267,5 @@ function BubbleElement(props) {
 }
 
 export default BubbleElement;
+export { defaultOptions };
 //# sourceMappingURL=index.modern.js.map
